@@ -1,3 +1,7 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/Omkar10010/imdb-sentiment-analysis?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Omkar10010/imdb-sentiment-analysis?style=social)
+![GitHub license](https://img.shields.io/github/license/Omkar10010/imdb-sentiment-analysis)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 # IMDb Sentiment Analysis - NLP Project
 
 This project implements sentiment analysis on the IMDb movie reviews dataset using Natural Language Processing (NLP) techniques and a Logistic Regression classifier.
